@@ -4,8 +4,6 @@ Getting familiar with few basic commands/adhoc commands to work with
 
 1. Start with setting up a system like following:
 
-![Day%202%20Adhoc%20Commands%202a2bf96a950040b8a251e9904fd6513a/Untitled.png](Day%202%20Adhoc%20Commands%202a2bf96a950040b8a251e9904fd6513a/Untitled.png)
-
 ```markdown
 vagrant init geerlingguy/centos   #initialize Vagrant
 code .                            #open the file in the editor,can also nvim <filename>
