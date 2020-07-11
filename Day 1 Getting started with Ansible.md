@@ -98,5 +98,3 @@ name: All about NTP # name of the play
 vagrant up        #Start the VM
 vagrant provision #run the specified tasks
 ```
-
-vpn
