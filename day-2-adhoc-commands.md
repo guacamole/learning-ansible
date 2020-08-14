@@ -1,6 +1,10 @@
 # Day - 2 Adhoc Commands
 
 Getting familiar with few basic commands/adhoc commands to work with
+Sometimes when the servers are not reponding in the way they are supposed to or there might be few quick commands that you might wanna run instantly like:
+- Checking log file
+- Rebooting your server
+- Quickly remove the access from a particular resource,etc.
 
 1. Start with setting up a system like following:
 
